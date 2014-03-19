@@ -7,6 +7,6 @@ The file [https://github.com/Xeaza/iOS-get-facebookJSON/blob/master/getFBpageFee
 
 [https://github.com/Xeaza/iOS-get-facebookJSON/blob/master/getFacebookPosts.m](getFacebookPosts.m) has two methods, one that makes the call to the above .php file and another that writes and could parse the returned JSON data to a file.
 
-	• To get an app token you can read more about that [https://developers.facebook.com/docs/facebook-login/access-tokens](here.)
-	• More about Facebook's SDK for PHP [https://developers.facebook.com/docs/reference/php/](here.)
-	• Use Facebook's [https://developers.facebook.com/tools/explorer](Graph API Explorer) to get a good idea of the data being returned so you can parse it easliy later on.
+• To get an app token you can read more about that [https://developers.facebook.com/docs/facebook-login/access-tokens](here.)
+• More about Facebook's SDK for PHP [https://developers.facebook.com/docs/reference/php/](here.)
+• Use Facebook's [https://developers.facebook.com/tools/explorer](Graph API Explorer) to get a good idea of the data being returned so you can parse it easliy later on.
